@@ -1,0 +1,1 @@
+DIR *.jpg /B > names.txt
